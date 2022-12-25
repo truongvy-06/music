@@ -19,10 +19,13 @@ new Vue({
         {
           name: "Mekanın Sahibi",
           artist: "Norm Ender",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/1.mp3",
+          cover: "https://user-images.githubusercontent.com/120462320/209369470-fedfe136-f2d0-4953-bb9c-feaf65b2ac5c.jpg",
+          source: "https://open.spotify.com/track/3y6kYOBeVg8jtUiBdTR0pD?si=fde589e38bd343ab",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
+        };
+        {
+          <iframe scrolling="no" width=640 height=180 src=https://zingmp3.vn/embed/song/Z6UWWA7Z?start=false frameborder="0" allowfullscreen="true"/>
         }
       ],
       currentTrack: null,
